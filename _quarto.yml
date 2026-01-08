@@ -1,0 +1,13 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "<span>Data</span><br><span>Team</span>"
+  navbar:
+    logo: images/NWRI_Logo_blue_orange.png
+            
+format:
+  html:
+    theme: mintly
+    css: styles.css
